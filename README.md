@@ -30,6 +30,7 @@
 <ol>
   <li>Visual Studio Code</li>
   <li>Google Colab</li>
+  <li>Jupyter Notebook</li>
   <li>Google Drive</li>
   <li>Python 3</li>
   <li>TensorFlow</li>
@@ -39,6 +40,7 @@
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/></a>&emsp;
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/-7kRsBAYf3zw/X7w3qDvmWdI/AAAAAAAALAo/-SxBc4AwZ88zE7KykcDqgjyCSaNCdBxmgCNcBGAsYHQ/s220-w220-h140-nd/colab-logo-440x280.png" alt="Google Colab" height="40"/></a>&emsp;
+<a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Jupyter Notebook" height="40"/></a>&emsp;
   <a href="https://www.google.com/drive/" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/012/871/368/non_2x/google-drive-icon-google-product-illustration-free-png.png" alt="Google Drive" height="40"/></a>&emsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="Python 3" height="40"/></a>&emsp;
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="40"/></a>&emsp;
